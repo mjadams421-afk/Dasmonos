@@ -1,0 +1,15 @@
+header {
+ color: green;
+ background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+ position: relative;
+ left: 50px;
+}
+
+h2 {
+color: white;
+background-color: blue;
+}
+
+#blue {
+color: blue;
+}
